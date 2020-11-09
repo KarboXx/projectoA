@@ -1,0 +1,116 @@
+nav {
+    background-color: #314745;
+    display: flex;
+    height: 54px;
+    justify-content: space-around;
+}
+
+a {
+    color: #f8f8f8;
+    font-size: 1.2em;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+}
+
+.apartado1 {
+    background-color: #0AC4C7;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+h1 {
+    color: white;
+}
+
+.articulo1 {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ width: 70%;
+}
+
+p {
+    color: #f8f8f8;
+    text-align: center;
+    width: 50%;
+    font-weight: 800;
+    font-size: 30px;
+    padding-left: 60px;
+}
+
+button {
+    color: #0AC4C7;
+    width: 200px;
+    border-color: white;
+    background-color: white;
+    position: relative;
+    left: 20%;
+}
+
+button:hover {
+    border-color: white;
+    background-color: black;
+    position: relative;
+    left: 20%;
+}
+
+.articulo2 {
+    display: flex;
+    width: 45%;
+}
+
+section {
+    display: flex;
+}
+
+section div img {
+    width: 100%;
+}
+
+.foto1 {
+    width: 87%;
+}
+
+
+.fa-arrow-alt-circle-right {
+    margin-left: 4px;
+}
+
+.fa-home {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-user {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-briefcase {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-facebook {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-envelope-open-text {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-twitter {
+    font-size: 20px;
+    padding-left: 4px;
+}
+
+.fa-instagram {
+    font-size: 20px;
+    padding-left: 4px;
+}
